@@ -1,3 +1,7 @@
+## Preprocessing des données 
+
+- evaluation sur un modele de Decision Tree
+
 
 ## Requirements
 
